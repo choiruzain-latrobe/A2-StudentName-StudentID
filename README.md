@@ -1,5 +1,10 @@
 # A2-StudentName-StudentID
 
+Choiru - I think you need to rename your repository to the format A2-Firstname-StudentID (with your real name and real student ID)
+and put your github link: https://github.com/yypetrov/A2-Firstname-StudentID.git
+The repository should private mode
+
+
 ## General Instruction
 
 1. Clone this repository on your local repository straight away, so you can modify the code in your local repository.
